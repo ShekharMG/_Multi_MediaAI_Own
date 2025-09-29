@@ -44,3 +44,12 @@ pip install imageio[ffmpeg] pydub
 ### 4. ▶️ Run the Program
 python main.py
 
+Outputs will be saved in the poc_outputs/ folder:
+
+generated_image.png → AI generated image
+
+narration.wav → AI narration
+
+final_demo.mp4 → Final video with audio
+
+
