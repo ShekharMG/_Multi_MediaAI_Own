@@ -52,4 +52,7 @@ narration.wav → AI narration
 
 final_demo.mp4 → Final video with audio
 
+Output image
+<img width="512" height="512" alt="generated_image" src="https://github.com/user-attachments/assets/9a8e196c-ad47-4757-a9ef-592f665468ef" />
+
 
