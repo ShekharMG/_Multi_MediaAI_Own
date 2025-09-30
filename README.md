@@ -1,6 +1,6 @@
 # 🎥 MultiMedia AI
 
-This project is a **Proof of Concept (POC)** showcasing Multi MediaAI AI orchestration.  
+This project is a **Proof of Concept (POC)** showcasing Multi MediaAI  
 It generates an **image from text**, creates **narration audio**, and combines them into a **video** using open-source models and free tools.
 
 ---
