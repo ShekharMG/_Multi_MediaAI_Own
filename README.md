@@ -1,6 +1,6 @@
 # 🎥 MultiMedia AI
 
-This project is a **Proof of Concept (POC)** showcasing multimodal AI orchestration.  
+This project is a **Proof of Concept (POC)** showcasing Multi MediaAI AI orchestration.  
 It generates an **image from text**, creates **narration audio**, and combines them into a **video** using open-source models and free tools.
 
 ---
@@ -29,8 +29,8 @@ It generates an **image from text**, creates **narration audio**, and combines t
 
 ### 1. Clone repository
 ```powershell
-   git clone https://github.com/your-username/multimodal_poc_simple.git
-   cd multimodalAI
+   git clone https://github.com/your-username/Multi MediaAI_poc_simple.git
+   cd Multi MediaAIAI
 ```
 ### 2. Create virtual environment
 py -3.10 -m venv venv
